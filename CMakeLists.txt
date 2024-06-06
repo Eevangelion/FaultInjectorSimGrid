@@ -26,9 +26,7 @@ set(PROJECT_SOURCES
         Entity/Task.h Entity/Task.cpp
         Entity/Job.h Entity/Job.cpp
         Controller/Controller.h Controller/Controller.cpp
-        GraphGenerator/GraphGenerator.h GraphGenerator/GraphGenerator.cpp
         Utils/json.hpp
-        Utils/jngen.hpp
 )
 
 add_executable(FaultInjectorSimGrid ${PROJECT_SOURCES})
