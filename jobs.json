@@ -1,0 +1,10 @@
+{
+    "jobs": [
+        {
+            "topologyType": "GRID",
+            "processes": 256,
+            "communicationCost": 1048576,
+            "computationCost": 500000
+        }
+    ]
+}

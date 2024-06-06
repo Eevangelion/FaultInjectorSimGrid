@@ -1,0 +1,10 @@
+{
+    "faults": [
+        {
+            "faultType": 0,
+            "job": 0,
+            "percentage": 95,
+            "faultAlgo": 1
+        }
+    ]
+}
